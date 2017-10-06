@@ -6,7 +6,7 @@ Start a node.js server from the command line :)
 ### Usage
 `$ localhost` 
 
-// Server listening on port 3000  
+![usage](https://img11.hostingpics.net/pics/997803Capturedcran20171006221435.png)
 
 ----------
 ### Install 
