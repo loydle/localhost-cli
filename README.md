@@ -10,9 +10,10 @@ Start a node.js server from the command line :)
 
 ----------
 ### Install 
-Git clone
 
-`$ mv [download_directory]/personal_bin/localhost ~/.personal_bin/localhost`
+`$ git clone https://github.com/loydle/localhost-cli.git`
+
+`$ mv [download_directory]/localhost-cli ~/.personal_bin/localhost`
 
 `$ cd ~/.personal_bin/localhost`
 
