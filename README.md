@@ -1,7 +1,7 @@
 localhost-cli 
 ===========================
 
-Start a node.js server from the command line :)
+Start an easy to custom node.js server from the command line.
 
 ### Usage
 `$ localhost` 
