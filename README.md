@@ -19,6 +19,8 @@ Start an easy to custom node.js server from the command line.
 
 `$ npm install`
 
+`$ chmod 755 localhost`
+
 `$ vim ~/.bash profile`
 
 
