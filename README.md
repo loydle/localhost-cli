@@ -32,7 +32,7 @@ export PATH=$PATH:.:$HOME/.personal_bin/localhost:
 
 ## Even better:
 ###  Use config-manager-cli to edit the server in one command :boom:
-https://github.com/loydle/config-manager-cli
+see: https://github.com/loydle/config-manager-cli
 
 ### Add config files
 `$ ln ~/.personal_bin/localhost/localhost ~/.personal_config/localhost`
