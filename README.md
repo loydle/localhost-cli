@@ -30,6 +30,8 @@ add the following line to ~/.bash_profile
 export PATH=$PATH:.:$HOME/.personal_bin/localhost:
 
 ```
+### Done! :thumbsup:
+
 ----------
 
 ## Even better:
