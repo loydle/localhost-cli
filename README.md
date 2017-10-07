@@ -1,15 +1,13 @@
-localhost-cli 
-===========================
+# localhost-cli 
+> Start an easy to custom node.js server from the command line. :seedling:
 
-Start an easy to custom node.js server from the command line. :seedling:
-
-### Usage
+## Usage
 `$ localhost` 
 
 ![usage](https://img11.hostingpics.net/pics/997803Capturedcran20171006221435.png)
 
 ----------
-### Install 
+## Install 
 
 `$ git clone https://github.com/loydle/localhost-cli.git`
 
@@ -32,10 +30,11 @@ export PATH=$PATH:.:$HOME/.personal_bin/localhost:
 ```
 ----------
 
+## Even better:
 ###  Use config-manager-cli to edit the server in one command :boom:
 https://github.com/loydle/config-manager-cli
 
-#### Add config files
+### Add config files
 `$ ln ~/.personal_bin/localhost/localhost ~/.personal_config/localhost`
 
 #### Usage
@@ -45,8 +44,6 @@ https://github.com/loydle/config-manager-cli
 -----------------
 
 ### MIT License
-
-Copyright (c) 2016 Stephan Schultz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
