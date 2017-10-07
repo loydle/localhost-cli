@@ -11,7 +11,7 @@
 
 `$ git clone https://github.com/loydle/localhost-cli.git`
 
-`$ mkdir ~/.personal_bin/localhost`
+`$ mkdir -p ~/.personal_bin/localhost`
 
 `$ mv [download_directory]/localhost-cli ~/.personal_bin/localhost`
 
