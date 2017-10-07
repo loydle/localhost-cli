@@ -34,7 +34,7 @@ export PATH=$PATH:.:$HOME/.personal_bin/localhost:
 
 ----------
 
-## Even better:
+## Even better?
 ###  Use config-manager-cli to edit the server in one command :boom:
 see: https://github.com/loydle/config-manager-cli
 
