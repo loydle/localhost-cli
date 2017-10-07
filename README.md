@@ -1,5 +1,5 @@
 # localhost-cli 
-> Start an easy to custom node.js server from the command line. :seedling:
+> Start an easy to custom node.js server from the command line. :seedling: :thumbsup:
 
 ## Usage
 `$ localhost` 
