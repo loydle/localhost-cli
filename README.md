@@ -11,15 +11,13 @@
 
 `$ git clone https://github.com/loydle/localhost-cli.git`
 
-`$ mkdir -p ~/.personal_bin/localhost`
+`$ cp -r [download_directory]/localhost-cli /usr/local/bin/localhost`
 
-`$ mv [download_directory]/localhost-cli ~/.personal_bin/localhost`
-
-`$ cd ~/.personal_bin/localhost`
+`$ cd /usr/local/bin/localhost`
 
 `$ npm install`
 
-`$ chmod 755 localhost`
+`$ chmod 755 /usr/local/bin/localhost/localhost`
 
 `$ vim ~/.bash profile`
 
@@ -27,10 +25,10 @@
 add the following line to ~/.bash_profile 
 
 ```bash
-export PATH=$PATH:.:$HOME/.personal_bin/localhost:
+export PATH=$PATH:.
 
 ```
-### Done! :thumbsup:
+### Restart terminal, done! :thumbsup:
 
 ----------
 
@@ -39,7 +37,7 @@ export PATH=$PATH:.:$HOME/.personal_bin/localhost:
 see: https://github.com/loydle/config-manager-cli
 
 ### Add config files
-`$ ln ~/.personal_bin/localhost/localhost ~/.personal_config/localhost`
+`$ ln /usr/local/bin/localhost/localhost ~/.personal_config/localhost`
 
 #### Usage
 `$ config localhost`
